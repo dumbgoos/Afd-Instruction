@@ -138,7 +138,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{luo2026afd,
   title={AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design},
-  author={Ling Luo and Wenbin Jiang and Xushi Zhang and Hongyuan Chang and Xinkang Wang and Yueting Xiong and Mengsha Tong and Rongshan Yu},
+  author={Ling Luo and Wenbin Jiang and Hongyuan Chang and Xinkang Wang and Xushi Zhang and Yueting Xiong and Mengsha Tong and Rongshan Yu},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2026}
 }
